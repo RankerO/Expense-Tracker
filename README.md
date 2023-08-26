@@ -31,7 +31,7 @@ An Expense Tracking Web Application to track your expenses. Not a normal expense
 
 <h2 align="centre">ScreenShots :- </h2>
 <h3>Home</h3>
-![1](https://github.com/RankerO/Expense-Tracker/assets/91595780/0acc7b65-0704-43d0-98bd-fbf76044937d)
+![image](https://github.com/RankerO/Expense-Tracker/assets/91595780/0acc7b65-0704-43d0-98bd-fbf76044937d)
 
 <h3>Login & Signup</h3>
 ![Screenshot 2023-08-27 032039](https://github.com/RankerO/Expense-Tracker/assets/91595780/48c1cb56-0566-4d45-b141-139f00c97616)
