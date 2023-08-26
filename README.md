@@ -28,3 +28,26 @@ An Expense Tracking Web Application to track your expenses. Not a normal expense
 <ul>Ankit Pandey</ul>
 <ul>Ayush Singh</ul>
 <ul>Shiv Gond</ul>
+
+<h2 align="centre">ScreenShots :- </h2>
+<h3>Home</h3>
+![Screenshot 2023-08-27 032023](https://github.com/RankerO/Expense-Tracker/assets/91595780/0acc7b65-0704-43d0-98bd-fbf76044937d)
+
+<h3>Login & Signup</h3>
+![Screenshot 2023-08-27 032039](https://github.com/RankerO/Expense-Tracker/assets/91595780/48c1cb56-0566-4d45-b141-139f00c97616)
+![Screenshot 2023-08-27 032104](https://github.com/RankerO/Expense-Tracker/assets/91595780/82b9346b-ed22-48a4-af1f-08e4e1cc8de1)
+
+<h3>About Us</h3>
+![Screenshot 2023-08-27 032122](https://github.com/RankerO/Expense-Tracker/assets/91595780/fbafa8b8-da8b-44d7-8a68-43a2322e4986)
+
+<h3>Dashboard</h3>
+![Screenshot 2023-08-27 032219](https://github.com/RankerO/Expense-Tracker/assets/91595780/5b9708c1-c7c5-4ca5-9f13-b09dac9f3c3f)
+![Screenshot 2023-08-27 032233](https://github.com/RankerO/Expense-Tracker/assets/91595780/c8bb26d1-c8a5-42c8-a3f4-c7fca24dde2e)
+
+<h3>Daily Transaction</h3>
+![Screenshot 2023-08-27 032245](https://github.com/RankerO/Expense-Tracker/assets/91595780/2ad2a448-534f-448a-8740-3b024af39845)
+![Screenshot 2023-08-27 032256](https://github.com/RankerO/Expense-Tracker/assets/91595780/cd769cc1-3181-42bb-99ce-a5d73328c919)
+
+<h3>Plan Budget</h3>
+![Screenshot 2023-08-27 032245](https://github.com/RankerO/Expense-Tracker/assets/91595780/2ad2a448-534f-448a-8740-3b024af39845)
+![Screenshot 2023-08-27 032256](https://github.com/RankerO/Expense-Tracker/assets/91595780/cd769cc1-3181-42bb-99ce-a5d73328c919)
