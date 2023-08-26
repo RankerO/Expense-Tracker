@@ -50,6 +50,7 @@ An Expense Tracking Web Application to track your expenses. Not a normal expense
 ![Screenshot 2023-08-27 032233](https://github.com/RankerO/Expense-Tracker/assets/91595780/c8bb26d1-c8a5-42c8-a3f4-c7fca24dde2e)
 
 <h3>Daily Transaction</h3>
+
 ![Screenshot 2023-08-27 032245](https://github.com/RankerO/Expense-Tracker/assets/91595780/2ad2a448-534f-448a-8740-3b024af39845)
 ![Screenshot 2023-08-27 032256](https://github.com/RankerO/Expense-Tracker/assets/91595780/cd769cc1-3181-42bb-99ce-a5d73328c919)
 
